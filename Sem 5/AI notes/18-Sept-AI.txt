@@ -1,0 +1,25 @@
+Knowledge
+    Declarative - Object facts
+    Procedural - Rules procedure
+    Meta - Knowledge about knowledge
+    Heuristics - rule of thumb
+    Structural - relationship b/w object, concept
+
+Relation between Knowledge and Intelligence
+
+
+Case Study: 
+    You are running an autonomous machine which will help you to calculate the taxes, GST, deductions, investment which will give you a tax benefit of your annual profit. What do you think which of the knowledge is extremely important to run such a kind of autonomous system, explain with proper justification.
+
+    A -> For this certain machine, 
+
+Case Study: 
+    A system which will calculate the fault tolerance of a manufacturing company which produces the nuts and bolts. It has been assumed that the assembly of nuts and bolts having 100% of accuracy. Suggest a suitable model for the manufacturing company taking the help of different type of knowledges.
+
+    A -> Meta - Feedback System, Procedural + Declarative = manufacturing, Structural = to provide a skeleton to the entire process.
+
+Case Study: 
+    Kim, Jim, Tim, Robert and Linda are staying in a castle. While Tim is playing Guitar, he can't hear the sound of telephone ringing. Jim is cooking in the kitchen while Linda is helping him in cooking but he is listening music with a headphone. Kim is loudly playing music and walking around the entire castle and time to time seeing his friends. Robert is writing an article in a common room where from everybody can access him. Suddenly it has been revealed after 2 hours, that Linda is murdered. Apply suitable knowledge to solve the mystery.
+
+    A -> Declarative, Heuristic, Meta.
+        
