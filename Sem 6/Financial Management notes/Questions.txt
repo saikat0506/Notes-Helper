@@ -1,0 +1,25 @@
+DAY 1
+
+1. Calculate Interest & FV of Rs. 50,000 deposited @10% p.a. simple interest after 5 years
+
+2. ⁠Calculate Interest & FV of Rs. 20,000 invested for a period of 1 year, @12% p.a. compounded half-yearly.
+
+3. ⁠Calculate FV of Rs. 50,000 invested @10% p.a. compounded annually, after a tenure of 5 years.
+
+4. ⁠If the FV of a certain sum of investment amounts to Rs. 40,000 after being invested for a span of 10 years and compounded annually @10% p.a. What was the value of investment 10 years before.
+
+
+
+DAY 2
+
+2. Ishan bought a 1 BHK flat for Rs 750,000 and sells it a year later for Rs 990,000, after deducting any realtor's fees and taxes. Calculate net present value, if the rate of return is 5%. 
+
+3. One can lend Rs 600 to Mr X. He will pay back Rs 680 in a year. The other option is to make an investment which will fetch a return of 10%. Which one is better? (Using NPV, where rate of interest is 10%)
+
+
+
+DAY 3
+
+Problem 2
+What is the weighted average cost of capital (WACC) for a firm with 50% debt and 50% equity that pays 12% on its debt, 20% on its equity, and has a 40% tax rate?
+
