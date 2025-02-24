@@ -39,7 +39,7 @@ The repository is organized into folders based on subjects, semesters, and categ
 
 🚀 How to Use?
 1. Clone the repository:
-   git clone https://github.com/your-username/College-Repo.git
+   git clone https://github.com/shuvomdhar/Notes-Helper.git
 2. Navigate through subject-wise folders to find notes, assignments, and coding files.
 3. Feel free to contribute if you find errors or want to add new content.
 
