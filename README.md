@@ -52,4 +52,4 @@ If you're a fellow student and wish to contribute:
 📧 Contact
 For any queries, feel free to reach out to me via:
 📩 Email: shuvomdhar8@gmail.com
-🔗 LinkedIn: (linkedin.com/in/shuvom-dhar)
+🔗 LinkedIn: [linkedin.com/in/shuvom-dhar](linkedin.com/in/shuvom-dhar)
