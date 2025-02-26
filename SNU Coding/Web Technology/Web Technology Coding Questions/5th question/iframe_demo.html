@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Registration</title>
+</head>
+<body>
+    <h2>Employee Registration Form</h2>
+    <form action="#" method="post">
+        <label for="empID">Employee ID:</label>
+        <input type="text" placeholder="Enter your id here" id="empID" name="empID" required><br><br>
+        
+        <label for="name">Full Name:</label>
+        <input type="text" placeholder="Enter your name here" id="name" name="name" required><br><br>
+        
+        <label for="email">Email:</label>
+        <input type="email" placeholder="Enter your mail id here" id="email" name="email" required><br><br>
+        
+        <label for="phone">Phone Number:</label>
+        <input type="tel" placeholder="Enter your number here" id="phone" name="phone" required><br><br>
+        
+        <label for="department">Department:</label>
+        <select id="department" name="department" required>
+            <option value="IT">IT</option>
+            <option value="HR">HR</option>
+            <option value="Finance">Finance</option>
+            <option value="Marketing">Marketing</option>
+        </select><br><br>
+        
+        <label for="dob">Date of Birth:</label>
+        <input type="date" id="dob" name="dob" required><br><br>
+        
+        <label for="gender">Gender:</label>
+        <input type="radio" id="male" name="gender" value="Male" required> Male
+        <input type="radio" id="female" name="gender" value="Female" required> Female
+        <input type="radio" id="other" name="gender" value="Other" required> Other<br><br>
+        
+        <label for="address">Address:</label><br>
+        <textarea id="address" name="address" rows="4" cols="30" required></textarea><br><br>
+        
+        <label for="resume">Upload Resume:</label>
+        <input type="file" id="resume" name="resume" required><br><br>
+        
+        <input type="submit" value="Register">
+    </form>
+</body>
+</html>
