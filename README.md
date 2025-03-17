@@ -4,7 +4,6 @@ Welcome to my College Repository! This repository serves as a collection of all 
 <br>
 
 <h2> 📂 Repository Structure </h2>
-<br>
 <h3> The repository is organized into folders based on subjects, semesters, and categories: </h3>
 <br>
 📁 Notes-Helper/<br>
@@ -17,7 +16,6 @@ Welcome to my College Repository! This repository serves as a collection of all 
 │── README.md<br>
 
 <h2> 📜 Contents </h2>
-<br>
 <h3> 📝 Notes </h3>
 <br>
 • Subject-wise theory notes
