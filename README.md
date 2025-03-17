@@ -16,7 +16,6 @@ Welcome to my College Repository! This repository serves as a collection of all 
 
 <h2> 📜 Contents </h2>
 <h3> 📝 Notes </h3>
-<br>
 • Subject-wise theory notes
 <br>
 • Lecture summaries
@@ -65,6 +64,7 @@ Welcome to my College Repository! This repository serves as a collection of all 
 
 <h2> 📌 Contribution </h2>
 If you're a fellow student and wish to contribute:
+<br>
 • Fork this repository
 <br>
 • Make your changes
@@ -74,6 +74,7 @@ If you're a fellow student and wish to contribute:
 
 <h2> 📧 Contact </h2>
 For any queries, feel free to reach out to me via:
+<br>
 <a href="linkedin.com/in/shuvom-dhar" target="_blank">🔗 LinkedIn</a>
 <br>
 <a href="https://www.instagram.com/shuvom_dhar_/" target="_blank">🔗 Instagram</a>
