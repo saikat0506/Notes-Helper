@@ -1,6 +1,5 @@
 <h1> 📚 College Notes, Assignments & Coding Files </h1>
-<br>
-Welcome to my College Repository! This repository serves as a collection of all my notes, assignments, and coding projects throughout my academic journey in Computer Science & Engineering (B.Tech CSE) at Sister Nivedita University.
+<p>Welcome to my College Repository! This repository serves as a collection of all my notes, assignments, and coding projects throughout my academic journey in Computer Science & Engineering (B.Tech CSE) at Sister Nivedita University.</p>
 <br>
 
 <h2> 📂 Repository Structure </h2>
