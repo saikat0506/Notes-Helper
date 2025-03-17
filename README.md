@@ -5,7 +5,6 @@ Welcome to my College Repository! This repository serves as a collection of all 
 
 <h2> 📂 Repository Structure </h2>
 <h3> The repository is organized into folders based on subjects, semesters, and categories: </h3>
-<br>
 📁 Notes-Helper/<br>
 │── 📁 SNU Coding<br>
 │── 📂 Semester-4/<br>
@@ -26,7 +25,6 @@ Welcome to my College Repository! This repository serves as a collection of all 
 <br>
 
 <h3> 📑 Assignments </h3>
-<br>
 • College coursework submissions
 <br>
 • Homework & lab assignments
@@ -35,7 +33,6 @@ Welcome to my College Repository! This repository serves as a collection of all 
 <br>
 
 <h3> 💻 Coding Files </h3>
-<br>
 • Programming practice files
 <br>
 • Data Structures & Algorithms
@@ -44,14 +41,12 @@ Welcome to my College Repository! This repository serves as a collection of all 
 <br>
 
 <h3> 🏗️ Projects </h3>
-<br>
 • Mini-projects
 <br>
 • Semester projects
 <br>
 
 <h3> 📚 Extra Resources </h3>
-<br>
 • Study materials
 <br>
 • Reference books & PDFs
@@ -60,7 +55,6 @@ Welcome to my College Repository! This repository serves as a collection of all 
 <br>
 
 <h2> 🚀 How to Use? </h2>
-<br>
 1. Clone the repository:<br>
    <strong>git clone :&nbsp;</strong><a href="https://github.com/shuvomdhar/Notes-Helper.git" target="_blank">https://github.com/shuvomdhar/Notes-Helper.git</a>
    <br>
@@ -70,9 +64,7 @@ Welcome to my College Repository! This repository serves as a collection of all 
    <br>
 
 <h2> 📌 Contribution </h2>
-<br>
 If you're a fellow student and wish to contribute:
-<br>
 • Fork this repository
 <br>
 • Make your changes
@@ -81,9 +73,7 @@ If you're a fellow student and wish to contribute:
 <br>
 
 <h2> 📧 Contact </h2>
-<br>
 For any queries, feel free to reach out to me via:
-<br>
 <a href="linkedin.com/in/shuvom-dhar" target="_blank">🔗 LinkedIn</a>
 <br>
 <a href="https://www.instagram.com/shuvom_dhar_/" target="_blank">🔗 Instagram</a>
