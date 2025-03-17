@@ -10,8 +10,8 @@ Welcome to my College Repository! This repository serves as a collection of all 
 📁 Notes-Helper/<br>
 │── 📁 SNU Coding<br>
 │── 📂 Semester-4/<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;    ├── 📂 Subject-wise Notes/<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;         ├── 📂 Assignments/<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ├── 📂 Subject-wise Notes/<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         ├── 📂 Assignments/<br>
 │── 📂 Semester-5/<br>
 │── 📂 Semester-6/<br>
 │── README.md<br>
@@ -86,8 +86,8 @@ If you're a fellow student and wish to contribute:
 <br>
 For any queries, feel free to reach out to me via:
 <br>
-<a href="linkedin.com/in/shuvom-dhar">🔗 LinkedIn</a>
+<a href="linkedin.com/in/shuvom-dhar" target="_blank">🔗 LinkedIn</a>
 <br>
-<a href="https://www.instagram.com/shuvom_dhar_/">🔗 Instagram</a>
+<a href="https://www.instagram.com/shuvom_dhar_/" target="_blank">🔗 Instagram</a>
 <br>
 <strong>📨 G-mail :&nbsp;</strong>shuvomdhar8@gmail.com
