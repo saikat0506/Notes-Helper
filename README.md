@@ -7,14 +7,14 @@ Welcome to my College Repository! This repository serves as a collection of all 
 <br>
 <h3> The repository is organized into folders based on subjects, semesters, and categories: </h3>
 <br>
-📁 Notes-Helper/
-│── 📁 SNU Coding
-│── 📂 Semester-4/
-│    ├── 📂 Subject-wise Notes/
-│         ├── 📂 Assignments/
-│── 📂 Semester-5/
-│── 📂 Semester-6/
-│── README.md
+📁 Notes-Helper/<br>
+│── 📁 SNU Coding<br>
+│── 📂 Semester-4/<br>
+│    ├── 📂 Subject-wise Notes/<br>
+│         ├── 📂 Assignments/<br>
+│── 📂 Semester-5/<br>
+│── 📂 Semester-6/<br>
+│── README.md<br>
 
 <h2> 📜 Contents </h2>
 <br>
@@ -63,19 +63,27 @@ Welcome to my College Repository! This repository serves as a collection of all 
 
 <h2> 🚀 How to Use? </h2>
 <br>
-1. Clone the repository:
-   git clone https://github.com/shuvomdhar/Notes-Helper.git
+1. Clone the repository:<br>
+   <strong>git clone</strong> <link src="https://github.com/shuvomdhar/Notes-Helper.git"></link>
+   <br>
 2. Navigate through subject-wise folders to find notes, assignments, and coding files.
+   <br>
 3. Feel free to contribute if you find errors or want to add new content.
+   <br>
 
 <h2> 📌 Contribution </h2>
 <br>
 If you're a fellow student and wish to contribute:
+<br>
 • Fork this repository
+<br>
 • Make your changes
+<br>
 • Submit a pull request
+<br>
 
 <h2> 📧 Contact </h2>
 <br>
 For any queries, feel free to reach out to me via:
-🔗 LinkedIn: [linkedin.com/in/shuvom-dhar](linkedin.com/in/shuvom-dhar)
+<br>
+<a href="linkedin.com/in/shuvom-dhar">🔗 LinkedIn</a>
