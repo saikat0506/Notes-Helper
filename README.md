@@ -10,8 +10,8 @@ Welcome to my College Repository! This repository serves as a collection of all 
 📁 Notes-Helper/<br>
 │── 📁 SNU Coding<br>
 │── 📂 Semester-4/<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ├── 📂 Subject-wise Notes/<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         ├── 📂 Assignments/<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ├── 📂 Subject-wise Notes/<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         ├── 📂 Assignments/<br>
 │── 📂 Semester-5/<br>
 │── 📂 Semester-6/<br>
 │── README.md<br>
