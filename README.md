@@ -64,7 +64,7 @@ Welcome to my College Repository! This repository serves as a collection of all 
 <h2> 🚀 How to Use? </h2>
 <br>
 1. Clone the repository:<br>
-   <strong>git clone</strong> <link src="https://github.com/shuvomdhar/Notes-Helper.git"></link>
+   <strong>git clone :<nbsp></nbsp></strong><a href="https://github.com/shuvomdhar/Notes-Helper.git" target="_blank">https://github.com/shuvomdhar/Notes-Helper.git</a>
    <br>
 2. Navigate through subject-wise folders to find notes, assignments, and coding files.
    <br>
