@@ -10,8 +10,8 @@ Welcome to my College Repository! This repository serves as a collection of all 
 📁 Notes-Helper/<br>
 │── 📁 SNU Coding<br>
 │── 📂 Semester-4/<br>
-│    ├── 📂 Subject-wise Notes/<br>
-│         ├── 📂 Assignments/<br>
+│&nbsp;&nbsp;    ├── 📂 Subject-wise Notes/<br>
+│&nbsp;&nbsp;         ├── 📂 Assignments/<br>
 │── 📂 Semester-5/<br>
 │── 📂 Semester-6/<br>
 │── README.md<br>
@@ -27,7 +27,7 @@ Welcome to my College Repository! This repository serves as a collection of all 
 • Important formulas & concepts
 <br>
 
-<h2> 📑 Assignments </h2>
+<h3> 📑 Assignments </h3>
 <br>
 • College coursework submissions
 <br>
@@ -36,7 +36,7 @@ Welcome to my College Repository! This repository serves as a collection of all 
 • Report files
 <br>
 
-<h2> 💻 Coding Files </h2>
+<h3> 💻 Coding Files </h3>
 <br>
 • Programming practice files
 <br>
@@ -45,14 +45,14 @@ Welcome to my College Repository! This repository serves as a collection of all 
 • Web development, machine learning, and other projects
 <br>
 
-<h2> 🏗️ Projects </h2>
+<h3> 🏗️ Projects </h3>
 <br>
 • Mini-projects
 <br>
 • Semester projects
 <br>
 
-<h2> 📚 Extra Resources </h2>
+<h3> 📚 Extra Resources </h3>
 <br>
 • Study materials
 <br>
@@ -64,7 +64,7 @@ Welcome to my College Repository! This repository serves as a collection of all 
 <h2> 🚀 How to Use? </h2>
 <br>
 1. Clone the repository:<br>
-   <strong>git clone :<nbsp></nbsp></strong><a href="https://github.com/shuvomdhar/Notes-Helper.git" target="_blank">https://github.com/shuvomdhar/Notes-Helper.git</a>
+   <strong>git clone :&nbsp;</strong><a href="https://github.com/shuvomdhar/Notes-Helper.git" target="_blank">https://github.com/shuvomdhar/Notes-Helper.git</a>
    <br>
 2. Navigate through subject-wise folders to find notes, assignments, and coding files.
    <br>
@@ -87,3 +87,7 @@ If you're a fellow student and wish to contribute:
 For any queries, feel free to reach out to me via:
 <br>
 <a href="linkedin.com/in/shuvom-dhar">🔗 LinkedIn</a>
+<br>
+<a href="https://www.instagram.com/shuvom_dhar_/">![InstagramLogoGIF](https://github.com/user-attachments/assets/c2603cae-d3ca-417c-b85e-d10248189e42) Instagram</a>
+<br>
+<strong>G-mail :&nbsp;</strong><a href="shuvomdhar8@gmail.com">📨 shuvomdhar8@gmail.com</a>
