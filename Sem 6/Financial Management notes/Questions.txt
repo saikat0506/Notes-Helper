@@ -1,5 +1,6 @@
 DAY 1
 
+
 1. Calculate Interest & FV of Rs. 50,000 deposited @10% p.a. simple interest after 5 years
 
 2. ⁠Calculate Interest & FV of Rs. 20,000 invested for a period of 1 year, @12% p.a. compounded half-yearly.
@@ -12,6 +13,7 @@ DAY 1
 
 DAY 2
 
+
 2. Ishan bought a 1 BHK flat for Rs 750,000 and sells it a year later for Rs 990,000, after deducting any realtor's fees and taxes. Calculate net present value, if the rate of return is 5%. 
 
 3. One can lend Rs 600 to Mr X. He will pay back Rs 680 in a year. The other option is to make an investment which will fetch a return of 10%. Which one is better? (Using NPV, where rate of interest is 10%)
@@ -20,6 +22,17 @@ DAY 2
 
 DAY 3
 
+
 Problem 2
 What is the weighted average cost of capital (WACC) for a firm with 50% debt and 50% equity that pays 12% on its debt, 20% on its equity, and has a 40% tax rate?
+
+
+DAY 4
+
+
+Question 1:
+You expect a return on the market of 15% and the risk-free rate to be 3%. The beta for Zed Ltd is 0.89 and it is priced to return 14%. Is Zed Ltd fairly priced? Would you buy or sell Zed Ltd?
+
+Question 2:
+Chicago Corp stock will pay a dividend of $1.32 next year. Its current price is $24.625 per share. The beta for the stock is 1.35 and the expected return on the market is 13.5%. If the riskless rate is 8.2%, what is the expected rate of return of Chicago?
 
