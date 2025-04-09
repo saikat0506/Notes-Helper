@@ -4,3 +4,14 @@ chmod +x sync.sh
 
 git syncnotes
 
+git config --global alias.syncnotes '!f() { \
+  git add . && \
+  git commit -m "." && \
+  git push origin saikat && \
+  git checkout main && \
+  git fetch upstream && \
+  git merge upstream/main && \
+  git push origin main --force-with-lease && \
+  git checkout saikat && \
+  git merge main && \
+  git push origin saikat; }; f'
