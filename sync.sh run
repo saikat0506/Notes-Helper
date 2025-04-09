@@ -1,0 +1,6 @@
+chmod +x sync.sh
+./sync.sh
+
+
+git syncnotes
+
