@@ -28,3 +28,4 @@ git config --global alias.syncnotessaikat '!f() { \
   git checkout saikat; }; f'
 
 
+esc -> :wq
